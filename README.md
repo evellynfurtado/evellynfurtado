@@ -4,7 +4,7 @@
 
 ---
 
-## 👩🏻‍💻 Sobre Mim
+## Sobre Mim
 
 Olá! Sou a **Evellyn Furtado**, apaixonada por tecnologia e desenvolvimento de software. Gosto de explorar novas ferramentas, resolver problemas complexos e criar projetos que gerem impacto positivo (como o LipAI! 🧠✨).
 
@@ -22,7 +22,7 @@ Olá! Sou a **Evellyn Furtado**, apaixonada por tecnologia e desenvolvimento de 
 
 ---
 
-### 🤖 Tecnologias e Ferramentas
+### Tecnologias e Ferramentas
 
 Aqui estão as linguagens e frameworks com os quais já trabalhei e possuo experiência:
 
@@ -40,14 +40,6 @@ Aqui estão as linguagens e frameworks com os quais já trabalhei e possuo exper
 
 <br/>
 <br/>
-
----
-
-### 📊 Minhas Estatísticas
-
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=evellynfurtad0&show_icons=true&count_private=true&hide_border=true&title_color=8A2BE2&icon_color=8A2BE2&text_color=c9d1d9&bg_color=0d1117" alt="Evellyn Furtado GitHub Stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evellynfurtad0&layout=compact&hide_border=true&title_color=8A2BE2&text_color=ffffff&bg_color=0d1117" alt="Top Languages" />
 </div>
 
 <br/>
