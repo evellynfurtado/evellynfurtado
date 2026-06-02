@@ -6,7 +6,7 @@
 
 ## Sobre Mim
 
-Olá! Sou a **Evellyn Furtado**, apaixonada por tecnologia e desenvolvimento de software. Gosto de explorar novas ferramentas, resolver problemas complexos e criar projetos que gerem impacto positivo (como o LipAI! 🧠✨).
+Olá! Sou a **Evellyn dos Santos Furtado**, e sou apaixonada por tecnologia. Estou me formando como técnica de informática integrado ao 3° ano do Ensino Médio na Etec Professora Maria Cristina Medeiros.
 
 <p align="left">
     <a href="https://www.instagram.com/st_evellyn" target="_blank">
@@ -43,14 +43,5 @@ Aqui estão as linguagens e frameworks com os quais já trabalhei e possuo exper
 
 ---
 
-###  Minhas Estatísticas
-
-<br/>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=evellynfurtad0&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
-
----
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer"/>
