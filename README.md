@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=header&text=Evellyn%20Furtado&fontSize=40&fontColor=ffffff">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8A2BE2&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Seja+Bem-vindo(a)!;Me+chamo+Evellyn+Furtado;Técnica+para+Internet;Focada+em+criar+projetos!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8A2BE2&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Seja+Bem-vindo(a)!;Me+chamo+Evellyn+Furtado;Técnica+em+informática+para+Internet;Focada+em+criar+projetos!)](https://git.io/typing-svg)
 
 ---
 
