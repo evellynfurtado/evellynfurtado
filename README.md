@@ -40,7 +40,10 @@ Aqui estão as linguagens e frameworks com os quais já trabalhei e possuo exper
 
 <br/>
 <br/>
-</div>
+
+---
+
+###  Minhas Estatísticas
 
 <br/>
 
@@ -50,3 +53,4 @@ Aqui estão as linguagens e frameworks com os quais já trabalhei e possuo exper
 
 ---
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer"/>
