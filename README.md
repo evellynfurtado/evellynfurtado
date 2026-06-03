@@ -12,10 +12,10 @@ Olá! Sou a **Evellyn dos Santos Furtado**, e sou apaixonada por tecnologia. Est
     <a href="https://www.instagram.com/st_evellyn" target="_blank">
         <img src="https://img.shields.io/badge/Instagram-st__evellyn-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
     </a>
-    <a href="https://github.com/evellynfurtad0?tab=followers" target="_blank">
+    <a href="https://github.com/evellynfurtado?tab=followers" target="_blank">
         <img src="https://custom-icon-badges.demolab.com/github/followers/evellynfurtad0?color=8A2BE2&labelColor=4B0082&style=for-the-badge&logo=github&label=Seguidores&logoColor=white" alt="Seguidores GitHub">
     </a>
-    <a href="https://github.com/evellynfurtad0?tab=repositories&sort=stargazers" target="_blank">
+    <a href="https://github.com/evellynfurtado?tab=repositories&sort=stargazers" target="_blank">
         <img src="https://custom-icon-badges.demolab.com/github/stars/evellynfurtad0?color=8A2BE2&style=for-the-badge&labelColor=4B0082&logo=star&label=Estrelas" alt="Total de Estrelas">
     </a>
 </p>
