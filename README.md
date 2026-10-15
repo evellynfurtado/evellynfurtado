@@ -181,8 +181,8 @@ VS Code       ██████████████████░░  prin
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/React-8A2BE2?style=flat-square&logo=react&logoColor=white"/>
-<img src="https://img.shields.io/badge/TypeScript-1a0f2e?style=flat-square&logo=typescript&logoColor=B57EFF"/>
+<img src="https://img.shields.io/badge/IoT-8A2BE2?style=flat-square&logo=arduino&logoColor=white"/>
+<img src="https://img.shields.io/badge/Arduino-1a0f2e?style=flat-square&logo=arduino&logoColor=B57EFF"/>
 
 <br><br>
 
