@@ -186,7 +186,7 @@ VS Code       ██████████████████░░  prin
 
 <br><br>
 
-Lixeiras e esteiras inteligentes que utilizam Visão Computacional e IoT para identificar resíduos recicláveis e direcioná-los à lixeira correta da coleta seletiva.
+Lixeiras e esteiras inteligentes que utilizam Visão Computacional e IoT para identificar resíduos recicláveis e direcioná-los à lixeira correta.
 
 <br><br>
 
@@ -209,7 +209,7 @@ Lixeiras e esteiras inteligentes que utilizam Visão Computacional e IoT para id
 
 <br><br>
 
-Plataforma de suporte ao diagnóstico médico que utiliza LLM e RAG. O médico informa os sintomas do paciente, e o sistema apresenta possíveis diagnósticos para auxiliar na tomada de decisão clínica.
+Plataforma de suporte ao diagnóstico médico que utiliza LLM e RAG para analisar sintomas e apresentar possíveis diagnósticos ao médico.
 
 <br><br>
 
