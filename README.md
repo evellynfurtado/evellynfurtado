@@ -166,7 +166,7 @@ VS Code       ██████████████████░░  prin
 
 <div align="center">
 
-## `✧ projetos`
+## `✧ projetos de pesquisa`
 
 <sub>Alguns dos projetos que representam minha jornada de desenvolvimento.</sub>
 
@@ -180,7 +180,7 @@ VS Code       ██████████████████░░  prin
 
 <td width="50%" valign="top">
 
-<h3 align="center">🎓 LipAI — Meu Trabalho de Conclusão de Curso</h3>
+<h3 align="center">RecolheAI - Lixeira Inteligente</h3>
 
 <div align="center">
 
@@ -193,7 +193,7 @@ Plataforma que utiliza inteligência artificial para auxiliar pessoas com defici
 
 <br><br>
 
-<a href="https://github.com/tcc-lipai">
+<a href="https://www.instagram.com/recolheai">
 <img src="https://img.shields.io/badge/VER%20PROJETO-8A2BE2?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -201,10 +201,9 @@ Plataforma que utiliza inteligência artificial para auxiliar pessoas com defici
 
 </td>
 
-<!-- ✏️ Troque este card pelo seu próximo projeto (ou apague o <td> inteiro) -->
 <td width="50%" valign="top">
 
-<h3 align="center">🐘 Nome do Projeto 2</h3>
+<h3 align="center">Dr.AIgnóstico - Assistente Médico</h3>
 
 <div align="center">
 
@@ -217,7 +216,7 @@ Descreva aqui, em uma ou duas frases, o que o projeto faz.
 
 <br><br>
 
-<a href="https://github.com/evellynfurtado/NOME-DO-REPOSITORIO">
+<a href="https://www.instagram.com/dr.aignostico/">
 <img src="https://img.shields.io/badge/VER%20PROJETO-8A2BE2?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
