@@ -1,0 +1,35 @@
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+
+  workflow_dispatch:
+
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Gerar animação das contribuições
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: evellynfurtado
+          outputs: |
+            dist/github-contribution-grid-snake.svg?color_snake=%238A2BE2&color_dots=%230d0d0d%2C%23241438%2C%23c9a0ff%2C%23a35cf0%2C%238A2BE2
+            dist/github-contribution-grid-snake-dark.svg?color_snake=%238A2BE2&color_dots=%230d0d0d%2C%23241438%2C%23c9a0ff%2C%23a35cf0%2C%238A2BE2
+
+      - name: Publicar animação
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
