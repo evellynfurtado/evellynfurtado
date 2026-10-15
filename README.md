@@ -101,7 +101,7 @@ Atualmente, meu foco está em:
 
 <td width="50%" valign="top">
 
-<h3 align="center">Trabalho de Conclusão de Curso</h3>
+<h3 align="center">LipAI - Meu Trabalho de Conclusão de Curso</h3>
 
 <div align="center">
 
