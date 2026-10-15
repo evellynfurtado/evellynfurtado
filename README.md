@@ -151,10 +151,7 @@ VS Code       ██████████████████░░  prin
 <img src="https://img.shields.io/badge/HTML5-0D0D0D?style=for-the-badge&logo=html5&logoColor=B57EFF"/>
 <img src="https://img.shields.io/badge/CSS3-0D0D0D?style=for-the-badge&logo=css3&logoColor=B57EFF"/>
 <img src="https://img.shields.io/badge/JavaScript-0D0D0D?style=for-the-badge&logo=javascript&logoColor=B57EFF"/>
-<img src="https://img.shields.io/badge/TypeScript-0D0D0D?style=for-the-badge&logo=typescript&logoColor=B57EFF"/>
 <img src="https://img.shields.io/badge/React-0D0D0D?style=for-the-badge&logo=react&logoColor=B57EFF"/>
-<img src="https://img.shields.io/badge/PHP-0D0D0D?style=for-the-badge&logo=php&logoColor=B57EFF"/>
-<img src="https://img.shields.io/badge/C%23-0D0D0D?style=for-the-badge&logo=dotnet&logoColor=B57EFF"/>
 <img src="https://img.shields.io/badge/Python-0D0D0D?style=for-the-badge&logo=python&logoColor=B57EFF"/>
 <img src="https://img.shields.io/badge/Git-0D0D0D?style=for-the-badge&logo=git&logoColor=B57EFF"/>
 <img src="https://img.shields.io/badge/GitHub-0D0D0D?style=for-the-badge&logo=github&logoColor=B57EFF"/>
@@ -207,8 +204,8 @@ Plataforma que utiliza inteligência artificial para auxiliar pessoas com defici
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/PHP-8A2BE2?style=flat-square&logo=php&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-1a0f2e?style=flat-square&logo=html5&logoColor=B57EFF"/>
+<img src="https://img.shields.io/badge/React-8A2BE2?style=flat-square&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-0D0D0D?style=for-the-badge&logo=python&logoColor=B57EFF"/>
 
 <br><br>
 
