@@ -1,47 +1,202 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=header&text=Evellyn%20Furtado&fontSize=40&fontColor=ffffff">
+<div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8A2BE2&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Seja+Bem-vindo(a)!;Me+chamo+Evellyn+Furtado;Técnica+em+informática+para+Internet;Focada+em+criar+projetos!)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0d0d0d,50:1a0f2e,100:8A2BE2&text=Evellyn%20Furtado&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=T%C3%A9cnica%20em%20Inform%C3%A1tica%20para%20Internet%20%E2%80%A2%20Web%20%E2%80%A2%20Projetos&descAlignY=60&descSize=18&animation=twinkling" width="100%" />
 
----
+<br>
 
-## Sobre Mim
+<img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=500&size=22&duration=3200&pause=900&color=B57EFF&center=true&vCenter=true&width=700&lines=Ol%C3%A1%2C+Seja+Bem-vindo(a)!;Me+chamo+Evellyn+Furtado;T%C3%A9cnica+em+inform%C3%A1tica+para+Internet;Focada+em+criar+projetos!" alt="Typing Animation" />
 
-Olá! Sou a **Evellyn dos Santos Furtado**, e sou apaixonada por tecnologia. Estou me formando como técnica de informática integrado ao 3° ano do Ensino Médio na Etec Professora Maria Cristina Medeiros.
+<br>
 
-<p align="left">
-    <a href="https://www.instagram.com/st_evellyn" target="_blank">
-        <img src="https://img.shields.io/badge/Instagram-st__evellyn-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-    </a>
-    <a href="https://github.com/evellynfurtado?tab=followers" target="_blank">
-        <img src="https://custom-icon-badges.demolab.com/github/followers/evellynfurtad0?color=8A2BE2&labelColor=4B0082&style=for-the-badge&logo=github&label=Seguidores&logoColor=white" alt="Seguidores GitHub">
-    </a>
-    <a href="https://github.com/evellynfurtado?tab=repositories&sort=stargazers" target="_blank">
-        <img src="https://custom-icon-badges.demolab.com/github/stars/evellynfurtad0?color=8A2BE2&style=for-the-badge&labelColor=4B0082&logo=star&label=Estrelas" alt="Total de Estrelas">
-    </a>
-</p>
+<a href="https://github.com/evellynfurtado">
+<img src="https://komarev.com/ghpvc/?username=evellynfurtado&label=VISITAS%20AO%20PERFIL&color=8A2BE2&style=flat-square" alt="Profile views"/>
+</a>
+
+</div>
 
 ---
 
-### Tecnologias e Ferramentas
+<div align="center">
 
-Aqui estão as linguagens e frameworks com os quais já trabalhei e possuo experiência:
+### `✦ um pouco sobre mim ✦`
 
-<p align="left">
-  <img align="left" alt="HTML5" title="HTML5" width="35px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-  <img align="left" alt="CSS3" title="CSS3" width="35px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-  <img align="left" alt="JavaScript" title="JavaScript" width="35px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-  <img align="left" alt="TypeScript" title="TypeScript" width="35px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-  <img align="left" alt="React" title="React" width="35px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-  <img align="left" alt="PHP" title="PHP" width="35px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
-  <img align="left" alt="C#" title="C#" width="35px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
-  <img align="left" alt="Python" title="Python" width="35px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-  <img align="left" alt="Git" title="Git" width="35px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-</p>
+</div>
 
-<br/>
-<br/>
+<img align="right" width="270" src="https://capsule-render.vercel.app/api?type=rounded&height=180&color=0d0d0d&text=%3C%2F%3E&fontColor=B57EFF&fontSize=80&fontAlignY=55&stroke=8A2BE2&strokeWidth=1" />
+
+Olá! Sou a **Evellyn dos Santos Furtado** e sou apaixonada por **tecnologia**.
+
+Estou me formando como **Técnica em Informática para Internet**, integrado ao **3º ano do Ensino Médio** na **Etec Professora Maria Cristina Medeiros**.
+
+Gosto de aprender, testar ideias e transformar tudo isso em **projetos de verdade**.
+
+Atualmente, meu foco está em:
+
+* 🌐 Desenvolvimento **web** (HTML, CSS, JavaScript)
+* ⚛️ Interfaces com **React** e **TypeScript**
+* 🐘 Back-end com **PHP**
+* 🐍 Lógica e automação com **Python**
+* 🔷 Programação com **C#**
+* 🚀 Criar projetos e evoluir a cada dia
+
+<br clear="right"/>
 
 ---
 
+<div align="center">
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer"/>
+## `♡ TECNOLOGIAS`
+
+### Linguagens & Frameworks
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,php,cs,py&theme=dark" />
+
+<br><br>
+
+### Ferramentas
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
+
+</div>
+
+---
+
+<div align="center">
+
+## `⚙ ferramentas que fazem parte do meu dia`
+
+</div>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/HTML5-0D0D0D?style=for-the-badge&logo=html5&logoColor=B57EFF"/>
+<img src="https://img.shields.io/badge/CSS3-0D0D0D?style=for-the-badge&logo=css3&logoColor=B57EFF"/>
+<img src="https://img.shields.io/badge/JavaScript-0D0D0D?style=for-the-badge&logo=javascript&logoColor=B57EFF"/>
+<img src="https://img.shields.io/badge/TypeScript-0D0D0D?style=for-the-badge&logo=typescript&logoColor=B57EFF"/>
+<img src="https://img.shields.io/badge/React-0D0D0D?style=for-the-badge&logo=react&logoColor=B57EFF"/>
+<img src="https://img.shields.io/badge/PHP-0D0D0D?style=for-the-badge&logo=php&logoColor=B57EFF"/>
+<img src="https://img.shields.io/badge/C%23-0D0D0D?style=for-the-badge&logo=dotnet&logoColor=B57EFF"/>
+<img src="https://img.shields.io/badge/Python-0D0D0D?style=for-the-badge&logo=python&logoColor=B57EFF"/>
+<img src="https://img.shields.io/badge/Git-0D0D0D?style=for-the-badge&logo=git&logoColor=B57EFF"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## `✧ projetos`
+
+<sub>Alguns dos projetos que representam minha jornada de desenvolvimento.</sub>
+
+</div>
+
+<br>
+
+<!-- ✏️ Troque os textos, tecnologias e links abaixo pelos seus projetos reais -->
+
+<table align="center">
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h3 align="center">🌐 Nome do Projeto 1</h3>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/React-8A2BE2?style=flat-square&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-1a0f2e?style=flat-square&logo=typescript&logoColor=B57EFF"/>
+
+<br><br>
+
+Descreva aqui, em uma ou duas frases, o que o projeto faz.
+
+<br><br>
+
+<a href="https://github.com/evellynfurtado/NOME-DO-REPOSITORIO">
+<img src="https://img.shields.io/badge/VER%20PROJETO-8A2BE2?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3 align="center">🐘 Nome do Projeto 2</h3>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/PHP-8A2BE2?style=flat-square&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-1a0f2e?style=flat-square&logo=html5&logoColor=B57EFF"/>
+
+<br><br>
+
+Descreva aqui, em uma ou duas frases, o que o projeto faz.
+
+<br><br>
+
+<a href="https://github.com/evellynfurtado/NOME-DO-REPOSITORIO">
+<img src="https://img.shields.io/badge/VER%20PROJETO-8A2BE2?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+<div align="center">
+
+## `♡ contribution garden`
+
+<img src="https://raw.githubusercontent.com/evellynfurtado/evellynfurtado/output/github-contribution-grid-snake-dark.svg" alt="Snake animation das contribuições" width="95%" />
+
+</div>
+
+---
+
+<div align="center">
+
+## `⌁ vamos conversar?`
+
+<br>
+
+<a href="https://www.instagram.com/st_evellyn">
+<img src="https://img.shields.io/badge/Instagram-0D0D0D?style=for-the-badge&logo=instagram&logoColor=B57EFF"/>
+</a>
+
+<a href="https://github.com/evellynfurtado">
+<img src="https://img.shields.io/badge/GitHub-0D0D0D?style=for-the-badge&logo=github&logoColor=B57EFF"/>
+</a>
+
+<br><br>
+
+<a href="https://github.com/evellynfurtado?tab=followers">
+<img src="https://custom-icon-badges.demolab.com/github/followers/evellynfurtado?color=8A2BE2&labelColor=4B0082&style=for-the-badge&logo=github&label=Seguidores&logoColor=white" alt="Seguidores GitHub">
+</a>
+
+<a href="https://github.com/evellynfurtado?tab=repositories&sort=stargazers">
+<img src="https://custom-icon-badges.demolab.com/github/stars/evellynfurtado?color=8A2BE2&labelColor=4B0082&style=for-the-badge&logo=star&label=Estrelas" alt="Total de Estrelas">
+</a>
+
+<br><br>
+
+<sub>Web • Projetos • Tecnologia • Aprendizado</sub>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:8A2BE2,50:1a0f2e,100:0d0d0d&section=footer" width="100%" />
+
+<sub>Feito com código, curiosidade e um toque de roxo. ♡</sub>
+
+</div>
