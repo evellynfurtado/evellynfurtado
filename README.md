@@ -145,6 +145,52 @@ Descreva aqui, em uma ou duas frases, o que o projeto faz.
 
 </td>
 
+<td width="50%" valign="top">
+
+<h3 align="center">🐘 Nome do Projeto 2</h3>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/PHP-8A2BE2?style=flat-square&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-1a0f2e?style=flat-square&logo=html5&logoColor=B57EFF"/>
+
+<br><br>
+
+Descreva aqui, em uma ou duas frases, o que o projeto faz.
+
+<br><br>
+
+<a href="https://github.com/evellynfurtado/NOME-DO-REPOSITORIO">
+<img src="https://img.shields.io/badge/VER%20PROJETO-8A2BE2?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3 align="center">🐘 Nome do Projeto 2</h3>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/PHP-8A2BE2?style=flat-square&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-1a0f2e?style=flat-square&logo=html5&logoColor=B57EFF"/>
+
+<br><br>
+
+Descreva aqui, em uma ou duas frases, o que o projeto faz.
+
+<br><br>
+
+<a href="https://github.com/evellynfurtado/NOME-DO-REPOSITORIO">
+<img src="https://img.shields.io/badge/VER%20PROJETO-8A2BE2?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+</td>
+
 </tr>
 
 </table>
