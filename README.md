@@ -182,11 +182,11 @@ VS Code       ██████████████████░░  prin
 <div align="center">
 
 <img src="https://img.shields.io/badge/IoT-8A2BE2?style=flat-square&logo=arduino&logoColor=white"/>
-<img src="https://img.shields.io/badge/Arduino-1a0f2e?style=flat-square&logo=arduino&logoColor=B57EFF"/>
+<img src="https://img.shields.io/badge/Python-0D0D0D?style=for-the-badge&logo=python&logoColor=B57EFF"/>
 
 <br><br>
 
-Plataforma que utiliza inteligência artificial para auxiliar pessoas com deficiência auditiva e surdos no aprendizado e desenvolvimento da leitura labial e da fala.
+Lixeiras e esteiras inteligentes que utilizam Visão Computacional e IoT para identificar resíduos recicláveis e direcioná-los à lixeira correta da coleta seletiva.
 
 <br><br>
 
@@ -209,7 +209,7 @@ Plataforma que utiliza inteligência artificial para auxiliar pessoas com defici
 
 <br><br>
 
-Descreva aqui, em uma ou duas frases, o que o projeto faz.
+Plataforma de suporte ao diagnóstico médico que utiliza LLM e RAG. O médico informa os sintomas do paciente, e o sistema apresenta possíveis diagnósticos para auxiliar na tomada de decisão clínica.
 
 <br><br>
 
