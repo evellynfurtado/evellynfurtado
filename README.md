@@ -47,17 +47,96 @@ Atualmente, meu foco está em:
 
 ## `♡ TECNOLOGIAS`
 
-### Linguagens & Frameworks
+### Linguagens & Frontend
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,php,cs,py&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react&theme=dark" />
 
 <br><br>
 
-### Ferramentas
+### Linguagens & Backend
+
+<img src="https://skillicons.dev/icons?i=php,cs,dotnet,py&theme=dark" />
+
+<br><br>
+
+### Bancos de Dados
+
+<!-- ✏️ Deixe só os bancos que você realmente usa -->
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&theme=dark" />
+
+<br><br>
+
+### Cloud & Desenvolvimento
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
 
 </div>
+
+---
+
+<div align="center">
+
+## `⌁ MEU STACK`
+
+</div>
+
+<!-- ✏️ Ajuste os níveis (quantidade de █) e os rótulos conforme a sua realidade -->
+
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+### 💜 Frontend
+
+```text
+HTML          ████████████████████  principal
+CSS           ██████████████████░░  principal
+JavaScript    ████████████████░░░░  experiência
+TypeScript    ████████████░░░░░░░░  experiência
+React         ████████████░░░░░░░░  experiência
+```
+
+</td>
+
+<td width="50%" valign="top">
+
+### ♡ Backend
+
+```text
+PHP           ██████████████░░░░░░  experiência
+C#            ██████████████░░░░░░  experiência
+Python        ██████████████░░░░░░  experiência
+```
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🗄️ Dados
+
+```text
+MySQL         ████████████░░░░░░░░  experiência
+PostgreSQL    ██████████░░░░░░░░░░  experiência
+MongoDB       ██████████░░░░░░░░░░  experiência
+```
+
+</td>
+
+<td width="50%" valign="top">
+
+### ☁️ Ferramentas
+
+```text
+Git           ████████████████░░░░  experiência
+GitHub        ████████████████░░░░  experiência
+VS Code       ██████████████████░░  principal
+```
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -78,6 +157,8 @@ Atualmente, meu foco está em:
 <img src="https://img.shields.io/badge/C%23-0D0D0D?style=for-the-badge&logo=dotnet&logoColor=B57EFF"/>
 <img src="https://img.shields.io/badge/Python-0D0D0D?style=for-the-badge&logo=python&logoColor=B57EFF"/>
 <img src="https://img.shields.io/badge/Git-0D0D0D?style=for-the-badge&logo=git&logoColor=B57EFF"/>
+<img src="https://img.shields.io/badge/GitHub-0D0D0D?style=for-the-badge&logo=github&logoColor=B57EFF"/>
+<img src="https://img.shields.io/badge/VS%20Code-0D0D0D?style=for-the-badge&logo=visualstudiocode&logoColor=B57EFF"/>
 
 </div>
 
@@ -93,15 +174,13 @@ Atualmente, meu foco está em:
 
 <br>
 
-<!-- Projetos -->
-
 <table align="center">
 
 <tr>
 
 <td width="50%" valign="top">
 
-<h3 align="center">LipAI - Meu Trabalho de Conclusão de Curso</h3>
+<h3 align="center">🎓 LipAI — Meu Trabalho de Conclusão de Curso</h3>
 
 <div align="center">
 
@@ -110,7 +189,7 @@ Atualmente, meu foco está em:
 
 <br><br>
 
-Plataforma que utiliza inteligência artificial para auxiliar pessoas com deficiência auditiva e surdos no aprendizado e desenvolvimento da leitura labial e da fala
+Plataforma que utiliza inteligência artificial para auxiliar pessoas com deficiência auditiva e surdos no aprendizado e desenvolvimento da leitura labial e da fala.
 
 <br><br>
 
@@ -122,52 +201,7 @@ Plataforma que utiliza inteligência artificial para auxiliar pessoas com defici
 
 </td>
 
-<td width="50%" valign="top">
-
-<h3 align="center">🐘 Nome do Projeto 2</h3>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/PHP-8A2BE2?style=flat-square&logo=php&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-1a0f2e?style=flat-square&logo=html5&logoColor=B57EFF"/>
-
-<br><br>
-
-Descreva aqui, em uma ou duas frases, o que o projeto faz.
-
-<br><br>
-
-<a href="https://github.com/evellynfurtado/NOME-DO-REPOSITORIO">
-<img src="https://img.shields.io/badge/VER%20PROJETO-8A2BE2?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
-
-</td>
-
-<td width="50%" valign="top">
-
-<h3 align="center">🐘 Nome do Projeto 2</h3>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/PHP-8A2BE2?style=flat-square&logo=php&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-1a0f2e?style=flat-square&logo=html5&logoColor=B57EFF"/>
-
-<br><br>
-
-Descreva aqui, em uma ou duas frases, o que o projeto faz.
-
-<br><br>
-
-<a href="https://github.com/evellynfurtado/NOME-DO-REPOSITORIO">
-<img src="https://img.shields.io/badge/VER%20PROJETO-8A2BE2?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
-
-</td>
-
+<!-- ✏️ Troque este card pelo seu próximo projeto (ou apague o <td> inteiro) -->
 <td width="50%" valign="top">
 
 <h3 align="center">🐘 Nome do Projeto 2</h3>
