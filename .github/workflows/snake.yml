@@ -21,10 +21,10 @@ jobs:
       - name: Gerar animação das contribuições
         uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: pamellachristiny
+          github_user_name: evellynfurtado
           outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=%23ff4f9a&color_dots=%230d0d0d%2C%2324141f%2C%23ffb3d1%2C%23ff6fae%2C%23ff4f9a
-            dist/github-contribution-grid-snake-dark.svg?color_snake=%23ff4f9a&color_dots=%230d0d0d%2C%2324141f%2C%23ffb3d1%2C%23ff6fae%2C%23ff4f9a
+            dist/github-contribution-grid-snake.svg?color_snake=%238A2BE2&color_dots=%230d0d0d%2C%23241438%2C%23c9a0ff%2C%23a35cf0%2C%238A2BE2
+            dist/github-contribution-grid-snake-dark.svg?color_snake=%238A2BE2&color_dots=%230d0d0d%2C%23241438%2C%23c9a0ff%2C%23a35cf0%2C%238A2BE2
 
       - name: Publicar animação
         uses: crazy-max/ghaction-github-pages@v4
