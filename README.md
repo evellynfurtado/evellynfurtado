@@ -93,7 +93,7 @@ Atualmente, meu foco está em:
 
 <br>
 
-<!-- ✏️ Troque os textos, tecnologias e links abaixo pelos seus projetos reais -->
+<!-- Projetos -->
 
 <table align="center">
 
@@ -101,7 +101,7 @@ Atualmente, meu foco está em:
 
 <td width="50%" valign="top">
 
-<h3 align="center">🌐 Nome do Projeto 1</h3>
+<h3 align="center">Trabalho de Conclusão de Curso</h3>
 
 <div align="center">
 
@@ -110,11 +110,11 @@ Atualmente, meu foco está em:
 
 <br><br>
 
-Descreva aqui, em uma ou duas frases, o que o projeto faz.
+Plataforma que utiliza inteligência artificial para auxiliar pessoas com deficiência auditiva e surdos no aprendizado e desenvolvimento da leitura labial e da fala
 
 <br><br>
 
-<a href="https://github.com/evellynfurtado/NOME-DO-REPOSITORIO">
+<a href="https://github.com/tcc-lipai">
 <img src="https://img.shields.io/badge/VER%20PROJETO-8A2BE2?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
